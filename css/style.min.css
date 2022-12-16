@@ -626,7 +626,9 @@ main {
 .tabs__items {
   display: flex;
   flex-direction: column;
-  flex: 0 1 281px;
+  flex: 0 1 281px;   
+  margin: 0 0 50px 0;
+	
 }
 @media (max-width: 991.98px) {
   .tabs__items {
